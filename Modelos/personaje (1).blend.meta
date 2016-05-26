@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: a4151f2394f194231861041fa34432ad
+timeCreated: 1463418875
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antebrazo_l
+    100002: antebrazo_r
+    100004: brazo_l
+    100006: brazo_r
+    100008: cabeza
+    100010: cabeza_0
+    100012: cabeza_MeshPart0
+    100014: cabeza_MeshPart1
+    100016: cabeza_MeshPart2
+    100018: cabeza_MeshPart3
+    100020: ceja
+    100022: dedos_l
+    100024: dedos_r
+    100026: espinilla_l
+    100028: espinilla_l_001
+    100030: espinilla_r
+    100032: espinilla_r_001
+    100034: Esqueleto
+    100036: mano_l
+    100038: mano_l_001
+    100040: mano_r
+    100042: mano_r_001
+    100044: muslo_l
+    100046: muslo_r
+    100048: ojos
+    100050: pecho
+    100052: //RootNode
+    100054: pie_l
+    100056: pie_r
+    400000: antebrazo_l
+    400002: antebrazo_r
+    400004: brazo_l
+    400006: brazo_r
+    400008: cabeza
+    400010: cabeza_0
+    400012: cabeza_MeshPart0
+    400014: cabeza_MeshPart1
+    400016: cabeza_MeshPart2
+    400018: cabeza_MeshPart3
+    400020: ceja
+    400022: dedos_l
+    400024: dedos_r
+    400026: espinilla_l
+    400028: espinilla_l_001
+    400030: espinilla_r
+    400032: espinilla_r_001
+    400034: Esqueleto
+    400036: mano_l
+    400038: mano_l_001
+    400040: mano_r
+    400042: mano_r_001
+    400044: muslo_l
+    400046: muslo_r
+    400048: ojos
+    400050: pecho
+    400052: //RootNode
+    400054: pie_l
+    400056: pie_r
+    4300000: cabeza_MeshPart0
+    4300002: cabeza_MeshPart1
+    4300004: cabeza_MeshPart2
+    4300006: cabeza_MeshPart3
+    4300008: ojos
+    4300010: ceja
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: cabeza_MeshPart0
+    13700002: cabeza_MeshPart1
+    13700004: cabeza_MeshPart2
+    13700006: cabeza_MeshPart3
+    13700008: ceja
+    13700010: ojos
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
