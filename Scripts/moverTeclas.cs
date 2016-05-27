@@ -15,7 +15,13 @@ public class moverTeclas : MonoBehaviour {
         {
             transform.Translate(0, 0, Input.GetAxisRaw("Vertical") * Time.deltaTime * 70);
             GetComponent<Animation>().Play("run");
-        }else {
+		}else if (Input.GetButtonDown("Fire1")) {
+			GetComponent<Animation>().Stop("run");
+			GetComponent<Animation>().Stop("idlebattle");
+			GetComponent<Animation>().Play("attack");
+		}
+
+		else {
             GetComponent<Animation>().Play("idlebattle");
         }
 
@@ -25,9 +31,7 @@ public class moverTeclas : MonoBehaviour {
             
         }
 
-        if (Input.GetMouseButton(0)) {
-            GetComponent<Animation>().Play("attack");
-        }
+
         
 
     }
